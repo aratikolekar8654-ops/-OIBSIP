@@ -26,5 +26,5 @@ A console-based game where the computer generates a random number and the user a
 ![Number Guessing Game Screenshot](screenshots/NumberGuessingGame.png)
 
 ## 🎥 Demo Video
-[LinkedIn/YouTube demo link]
+https://www.linkedin.com/posts/aarti-kolekar-0bb516368_oasisinfobyte-javadevelopment-internship-ugcPost-7491104787980042240-j6mv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFszdg8BLIapMRwTuHbW9hYKGek4ZW9yGnY
 
