@@ -21,7 +21,9 @@ A console-based game where the computer generates a random number and the user a
 3. Enter guesses until correct or attempts run out.
 
 ## 📸 Screenshots
-(Add console output screenshots here.)
+
+### Login Window
+![Number Guessing Game Screenshot](screenshots/NumberGuessingGame.png)
 
 ## 🎥 Demo Video
 [LinkedIn/YouTube demo link]
