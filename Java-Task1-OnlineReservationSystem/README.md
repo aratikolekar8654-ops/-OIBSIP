@@ -24,7 +24,7 @@ A GUI-based train reservation system where users can log in, book tickets, and c
 ## 📸 Screenshots
 
 ### Login Window
-![Login Screenshot](screenshots/Screenshot 2026-08-06 161845.png)
+![Login Screenshot](screenshots/Screenshot2026-08-06161845.png)
 
 ### Reservation Window
 ![Reservation Screenshot](screenshots/reservation.png)
