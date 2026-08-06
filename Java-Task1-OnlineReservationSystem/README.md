@@ -22,7 +22,16 @@ A GUI-based train reservation system where users can log in, book tickets, and c
 4. Login → Book Ticket → Cancel Ticket.
 
 ## 📸 Screenshots
-(Add screenshots of login, reservation, and cancellation windows here.)
+## 📸 Screenshots
+
+### Login Window
+![Login Screenshot](screenshots/login.png)
+
+### Reservation Window
+![Reservation Screenshot](screenshots/reservation.png)
+
+### Cancellation Window
+![Cancellation Screenshot](screenshots/cancellation.png)
 
 ## 🎥 Demo Video
 [LinkedIn/YouTube demo link]
