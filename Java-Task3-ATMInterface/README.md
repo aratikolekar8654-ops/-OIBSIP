@@ -47,4 +47,4 @@ A console-based simulation of an ATM machine that allows users to authenticate w
 
 
 ## 🎥 Demo Video
-https://www.linkedin.com/posts/aarti-kolekar-0bb516368_oasisinfobyte-javadevelopment-internship-ugcPost-7491105405268574208-s1Rn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFszdg8BLIapMRwTuHbW9hYKGek4ZW9yGnY
+[Linkedin post URL](https://www.linkedin.com/posts/aarti-kolekar-0bb516368_oasisinfobyte-javadevelopment-internship-ugcPost-7491105405268574208-s1Rn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFszdg8BLIapMRwTuHbW9hYKGek4ZW9yGnY)
