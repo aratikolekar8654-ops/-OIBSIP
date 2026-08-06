@@ -33,4 +33,4 @@ A GUI-based train reservation system where users can log in, book tickets, and c
 ![Cancellation Screenshot](screenshots/cancellation.png)
 
 ## 🎥 Demo Video
-https://www.linkedin.com/posts/aarti-kolekar-0bb516368_oasisinfobyte-javadevelopment-internship-ugcPost-7491104337042202624-BL9M/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFszdg8BLIapMRwTuHbW9hYKGek4ZW9yGn
+[Linkedin post URL](https://www.linkedin.com/posts/aarti-kolekar-0bb516368_oasisinfobyte-javadevelopment-internship-ugcPost-7491104337042202624-BL9M/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFszdg8BLIapMRwTuHbW9hYKGek4ZW9yGn)
