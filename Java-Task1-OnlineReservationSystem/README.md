@@ -22,7 +22,6 @@ A GUI-based train reservation system where users can log in, book tickets, and c
 4. Login → Book Ticket → Cancel Ticket.
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### Login Window
 ![Login Screenshot](screenshots/login.png)
