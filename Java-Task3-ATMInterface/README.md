@@ -31,20 +31,7 @@ A console-based simulation of an ATM machine that allows users to authenticate w
 ![Login Screenshot](https://github.com/aratikolekar8654-ops/-OIBSIP/blob/main/Java-Task3-ATMInterface/Screenshot%202026-08-06%20165134.png)
 
 ### Main Menu
-![Menu Screenshot](screenshots/menu.png)
-
-### Withdraw Operation
-![Withdraw Screenshot](screenshots/withdraw.png)
-
-### Deposit Operation
-![Deposit Screenshot](screenshots/deposit.png)
-
-### Transfer Operation
-![Transfer Screenshot](screenshots/transfer.png)
-
-### Transaction History
-![History Screenshot](screenshots/history.png)
-
+![Menu Screensho](https://github.com/aratikolekar8654-ops/-OIBSIP/blob/main/Java-Task3-ATMInterface/Screenshot%202026-08-06%20165141.png)
 
 ## 🎥 Demo Video
 [Linkedin post URL](https://www.linkedin.com/posts/aarti-kolekar-0bb516368_oasisinfobyte-javadevelopment-internship-ugcPost-7491105405268574208-s1Rn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFszdg8BLIapMRwTuHbW9hYKGek4ZW9yGnY)
