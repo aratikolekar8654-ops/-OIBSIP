@@ -27,7 +27,7 @@ A GUI-based train reservation system where users can log in, book tickets, and c
 ![Login Screenshot](https://github.com/aratikolekar8654-ops/-OIBSIP/blob/main/Java-Task1-OnlineReservationSystem/Screenshot%202026-08-06%20161510.png)
 
 ### Reservation Window
-![Reservation Screenshot](screenshots/reservation.png)
+![Reservation Screenshot](https://github.com/aratikolekar8654-ops/-OIBSIP/blob/main/Java-Task1-OnlineReservationSystem/Screenshot%202026-08-06%20161845.png)
 
 ### Cancellation Window
 ![Cancellation Screenshot](screenshots/cancellation.png)
