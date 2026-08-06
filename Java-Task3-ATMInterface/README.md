@@ -28,7 +28,7 @@ A console-based simulation of an ATM machine that allows users to authenticate w
 ## 📸 Screenshots
 
 ### Login Prompt
-![Login Screenshot](https://github.com/aratikolekar8654-ops/-OIBSIP/blob/main/Java-Task3-ATMInterface/Screenshot%202026-08-06%20164718.png)
+![Login Screenshot](https://github.com/aratikolekar8654-ops/-OIBSIP/blob/main/Java-Task3-ATMInterface/Screenshot%202026-08-06%20165134.png)
 
 ### Main Menu
 ![Menu Screenshot](screenshots/menu.png)
