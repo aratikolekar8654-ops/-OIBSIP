@@ -26,7 +26,25 @@ A console-based simulation of an ATM machine that allows users to authenticate w
 4. Perform transactions via menu options.
 
 ## 📸 Screenshots
-(Add console output screenshots here.)
+
+### Login Prompt
+![Login Screenshot](screenshots/login.png)
+
+### Main Menu
+![Menu Screenshot](screenshots/menu.png)
+
+### Withdraw Operation
+![Withdraw Screenshot](screenshots/withdraw.png)
+
+### Deposit Operation
+![Deposit Screenshot](screenshots/deposit.png)
+
+### Transfer Operation
+![Transfer Screenshot](screenshots/transfer.png)
+
+### Transaction History
+![History Screenshot](screenshots/history.png)
+
 
 ## 🎥 Demo Video
 [LinkedIn/YouTube demo link]
